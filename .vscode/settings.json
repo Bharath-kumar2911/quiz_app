@@ -1,0 +1,5 @@
+{
+    "azure.showSignedInEmail": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f8d857b-3bb0-4d2a-8b18-97080fa2de66/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/poctreask123",
+    "appService.deploySubpath": "."
+}

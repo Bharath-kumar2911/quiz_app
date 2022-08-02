@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-node-azure-pack",
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vscode.azure-account"
+    ]
+}
